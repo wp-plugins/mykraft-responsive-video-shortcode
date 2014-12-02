@@ -31,7 +31,7 @@ Then click Activate Plugin button
  
 ==Frequently Asked Questions==
 
-=Is there any theme restriction for this plugin?=
+= Is there any theme restriction for this plugin? =
 
 No, you can use this plugin with any WordPress theme.
 
