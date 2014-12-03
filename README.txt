@@ -1,5 +1,5 @@
 === Mykraft Responsive Video Shortcode ===
-Contributors: Vitomir Gojak
+Contributors: gojak
 Donate link: http://megakrafts.com/donate
 Tags: plugin, wordpress, responsive, shortcode, video
 Requires at least: 3.0
