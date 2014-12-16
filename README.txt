@@ -4,7 +4,7 @@ Donate link: http://megakrafts.com/donate
 Tags: plugin, wordpress, responsive, shortcode, video
 Requires at least: 3.0
 Tested up to: 4.0  
-Stable tag: 1.0 
+Stable tag: 1.1 
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -43,10 +43,13 @@ http://megakrafts.com/mykraft-responsive-video-shortcode-plugin/
 
 ==Changelog==
 
+= 1.1 =
+* Update: minor fix 
+
 = 1.0 =
 * Published version
 
 == Upgrade Notice ==
 
-= 1.0 =
-No upgrade needed at this pont.
+= 1.1 =
+Please upgrade to version 1.1. Span class is replaced with div class.
