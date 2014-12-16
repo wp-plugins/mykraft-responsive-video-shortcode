@@ -18,7 +18,7 @@ License: GPL2
 
 //  Responsive Video Short Code
     function responsive_video_shortcode( $atts, $content = null ) {
-    return '<span class="featured-video">' . $content . '</span>';
+    return '<div class="featured-video">' . $content . '</div>';
     }
     add_shortcode('responsivevideo', 'responsive_video_shortcode');
 
