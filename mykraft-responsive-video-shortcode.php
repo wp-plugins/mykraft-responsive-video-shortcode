@@ -3,7 +3,7 @@
 Plugin Name: Mykraft Theme Responsive Video Shortcode
 Plugin URI: http://megakrafts.com/mykraft-responsive-video-shortcode-plugin
 Description: Mykraft Responsive Video Shortcode plugin is a simple way to add responsive video to your WordPress pages using editor button that inserts responsive video short-code.
-Version: 1.0
+Version: 1.1
 Author: Vitomir Gojak
 Author Email: mykraftmail@gmail.com
 License: GPL2
