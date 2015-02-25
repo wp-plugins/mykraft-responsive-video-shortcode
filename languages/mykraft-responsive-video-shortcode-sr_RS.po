@@ -1,0 +1,30 @@
+# Copyright (C) 2015 Mykraft Theme Responsive Video Shortcode
+# This file is distributed under the same license as the Mykraft Theme Responsive Video Shortcode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mykraft Theme Responsive Video Shortcode 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/mykraft-responsive-video-shortcode\n"
+"POT-Creation-Date: 2015-02-25 12:14:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-02-25 13:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Mykraft Theme Responsive Video Shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://megakrafts.com/mykraft-responsive-video-shortcode-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Mykraft Responsive Video Shortcode plugin is a simple way to add responsive video to your WordPress pages using editor button that inserts responsive video short-code."
+msgstr "Мајкрафт прилагођавајући видео шорткод додатак је лак начин да додате видео прилагођавајућих димензија на ваше Вордпрес стране путем дугмета које додаје шорткод."
+
+#. Author of the plugin/theme
+msgid "Vitomir Gojak"
+msgstr ""
+
