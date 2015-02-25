@@ -11,13 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 ==Description==
 
 Mykraft Responsive Video Shortcode Plugin is a simple way to add responsive video to your WordPress pages using editor button that inserts responsive video short-code.
-Manual: 
-1. Copy video URL
-2. Paste video URL in page editor
-3. When WordPress converts video URL into Video Box - click on video once to select it
-4. Click Responsive Video Shortcode editor button
-5. Video box will be converted back to URL - inside a shortcode
-6. Update your post
+Please refer to FAQ section and screenshots on how to use this plugin.
 
  
 ==Features==
